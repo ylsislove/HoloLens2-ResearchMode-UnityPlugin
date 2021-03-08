@@ -6,7 +6,7 @@
 2. 用 `Release, ARM64` 方式构建解决方案
 3. 在 Unity 项目中，创建 `Assets/Plugins/HL2RmUnityPlugin` 文件夹
 4. 将构建生成的 `HL2RmUnityPlugin.dll` 复制到 `Assets/Plugins/HL2RmUnityPlugin` 文件夹
-5. 在 Unity 脚本中调用 DLL 函数，参考 [IMUMamager.cs](./) 脚本
+5. 在 Unity 脚本中调用 DLL 函数，参考 [IMUMamager.cs](./HL2RmUnityDemo/Assets/Scripts/IMUManager.cs) 脚本
 6. 在菜单栏打开 `Edit -> Project Settings`。在 `Player -> Publishing Settings` 确保以下权限被勾上：
     - InternetClient
     - InternetClientServer
