@@ -31,3 +31,7 @@
 </Package>
 ```
 9. 在 Visual Studio 打开生成文件夹，用 `Release, ARM64` 方式构建解决方案并部署到 Hololens2
+
+## 致谢
+* [HoloLens2ForCV](https://github.com/microsoft/HoloLens2ForCV)
+* [HoloLens2-Unity-ResearchModeStreamer](https://github.com/cgsaxner/HoloLens2-Unity-ResearchModeStreamer)
